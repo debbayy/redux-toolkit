@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "samsung",
+      "price": 200000
+    },
+    {
+      "id": 2,
+      "title": "vivo",
+      "price": 300000
+    },
+    {
+      "id": 3,
+      "title": "mito",
+      "price": 400000
+    },
+    {
+      "id": 5,
+      "title": "asus",
+      "price": 600000
+    }
+  ]
+}
