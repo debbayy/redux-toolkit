@@ -5,7 +5,7 @@ import { useParams, useNavigate } from 'react-router-dom'
 
 const EditProduct = () => {
     const [title, setTitle] = useState('')
-    const [price, setPrice] = useState('')
+    const [price, setPrice] = useState()
 
     const dispatch = useDispatch()
     const navigate = useNavigate()
